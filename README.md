@@ -7,7 +7,9 @@
 
                                                                                                                                                                            
 
-💻 QA & Fullstack Developer.  🚀 Apasionada por la tecnología, los videojuegos y el arte.  📚 Siempre en formación, actualmente estudiando ciberseguridad: [tryhackme](https://tryhackme.com/p/GuadalupeHani)
+💻 QA & Fullstack Developer.
+🚀 Apasionada por la tecnología, los videojuegos y el arte.  
+📚 Siempre en formación, actualmente estudiando ciberseguridad: [tryhackme](https://tryhackme.com/p/GuadalupeHani)
 
 ### 🛠️ Tecnologías que uso
 
